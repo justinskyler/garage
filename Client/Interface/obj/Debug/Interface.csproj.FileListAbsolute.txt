@@ -1,0 +1,7 @@
+C:\Users\Angelot Mentus\Documents\Visual Studio 2012\Projects\ProjetSonyMultiservice\Client\Interface\bin\Debug\Interface.exe.config
+C:\Users\Angelot Mentus\Documents\Visual Studio 2012\Projects\ProjetSonyMultiservice\Client\Interface\bin\Debug\Interface.exe
+C:\Users\Angelot Mentus\Documents\Visual Studio 2012\Projects\ProjetSonyMultiservice\Client\Interface\bin\Debug\Interface.pdb
+C:\Users\Angelot Mentus\Documents\Visual Studio 2012\Projects\ProjetSonyMultiservice\Client\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Angelot Mentus\Documents\Visual Studio 2012\Projects\ProjetSonyMultiservice\Client\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\Angelot Mentus\Documents\Visual Studio 2012\Projects\ProjetSonyMultiservice\Client\Interface\obj\Debug\Interface.exe
+C:\Users\Angelot Mentus\Documents\Visual Studio 2012\Projects\ProjetSonyMultiservice\Client\Interface\obj\Debug\Interface.pdb
